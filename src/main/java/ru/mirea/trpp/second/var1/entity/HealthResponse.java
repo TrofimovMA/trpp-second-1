@@ -1,4 +1,4 @@
-package ru.mirea.trpp_second_1.entity;
+package ru.mirea.trpp.second.var1.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
